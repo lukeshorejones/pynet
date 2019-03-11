@@ -1,5 +1,5 @@
 # PyNet
-A very simplistic neural network library written in Python with NumPy. Included is also a trivial example application, xor.py, which approximates the XOR function. Both the library and the example application are based on a version written by Daniel Shiffman in p5.js as part of his "The Nature of Code" series, on his YouTube channel "The Coding Train".  
+A simplistic neural network library written in Python with NumPy. Included is also a trivial example application, xor.py, which approximates the XOR function. Both the library and the example application are based on a version written by Daniel Shiffman in p5.js as part of his "The Nature of Code" series, on his YouTube channel "The Coding Train".  
 
 # User Guide
 If Python 3 is installed, you can run xor.py to test the example application. You can also ``import pynet`` in your own projects.
