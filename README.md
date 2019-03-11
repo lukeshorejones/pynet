@@ -9,6 +9,6 @@ If Python 3 is installed, you can run xor.py to test the example application. Yo
  - Added the xor.py example.
 
 # What Did I Learn?
- - How a simple neural network works, and how it is set up in code.
+ - How a neural network works, and how it is set up in code.
  - How linear algebra (matrix maths!) can be applied to neural networks.
- - How to easily and efficiently implement the necessary operations with NumPy.
+ - How to efficiently implement the necessary operations with NumPy.
